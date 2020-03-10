@@ -1,5 +1,4 @@
-# OSL-technical-assessment
-For OSL technical assessment
+CHEUNG Ka Ho
 
 Environment of assessment: eclipse
 
